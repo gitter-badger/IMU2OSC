@@ -1,5 +1,7 @@
 # IMU2OSC
 
+[![Join the chat at https://gitter.im/BirminghamConservatoire/IMU2OSC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/BirminghamConservatoire/IMU2OSC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An application to marshall IMU data over OSC using an x-IMU device
 
 ## Dependencies
